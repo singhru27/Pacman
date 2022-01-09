@@ -15,7 +15,7 @@ This project is completed
 
 #### Example:   
 
-![ScreenShot](https://github.com/singhru27/Pacman/blob/main/screenshots/Home.png?raw=true)
+![ScreenShot](https://github.com/singhru27/Pacman/blob/main/screenshots/Default.png?raw=true)
 
 
 ## Installation and Setup Instructions
